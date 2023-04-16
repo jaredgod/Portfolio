@@ -1,0 +1,9 @@
+[submodule "DnD-Sheet-App"]
+	path = DnD-Sheet-App
+	url = https://github.com/jaredgod/DnD-Sheet-App.git
+[submodule "MagicLabyrinthServer"]
+	path = MagicLabyrinthServer
+	url = https://github.com/jaredgod/MagicLabyrinthServer.git
+[submodule "MagicLabyrinth"]
+	path = MagicLabyrinth
+	url = https://github.com/jaredgod/MagicLabyrinth.git
